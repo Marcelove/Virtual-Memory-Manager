@@ -1,0 +1,17 @@
+-Arquivos utilizados: impl3.c(arquivo com o virtual memory manager, utilizando threads e FIFO), addresses.txt(arquivo com os endereços, disponibilizado pelo professor) e BACKING_STORE.bin(arquivo em binário disponibilizado pelo professor).
+
+-Para gerar o arquivo executável, utilize o seguinte comando em seu terminal:
+
+~$ make 
+
+- Para testá-lo, utilize o seguinte comando em seu terminal:
+
+~$ ./vm addresses.txt fifo fifo
+
+-Para dar clean, utilize o seguinte comando em seu temrinal:
+
+~$ make clean
+
+-Sistema implementado em Linux Ubuntu
+
+-Aluno: Marcelo Amorim     | email: mlaj@cesar.school
